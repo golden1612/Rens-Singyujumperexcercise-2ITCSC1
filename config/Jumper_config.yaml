@@ -1,5 +1,5 @@
 behaviors:
-  Jumper:
+  jumper:
     trainer_type: ppo
     hyperparameters:
       batch_size: 10
